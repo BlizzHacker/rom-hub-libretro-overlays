@@ -109,3 +109,13 @@ different mechanism.
 
 **The Hub does not render the overlay.** Nothing here checks that the images
 are the ones the `.cfg` expects, or that the result looks right.
+
+---
+
+## Seen working
+
+This plugin installs into a local directory rather than a library backend, so it does not appear in the screenshots. The command transcripts in the showcase show it listing and installing real files, with sizes and hashes.
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install libretro-overlays`.
