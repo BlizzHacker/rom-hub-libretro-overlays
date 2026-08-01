@@ -1,8 +1,5 @@
 # libretro overlays plugin for ROM Hub
 
-A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
-Oklahoma non-profit corporation with 501(c)(3) status pending.
-
 Implements the RPP v1 `assets` capability: RetroArch overlays — the bezels and
 on-screen gamepads that fill the empty space around a 4:3 game on a 16:9
 screen.
